@@ -4,7 +4,7 @@
 #
 Name     : pypi-hatch_vcs
 Version  : 0.3.0
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/04/33/b68d68e532392d938472d16a03e4ce0ccd749ea31b42d18f8baa6547cbfd/hatch_vcs-0.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/04/33/b68d68e532392d938472d16a03e4ce0ccd749ea31b42d18f8baa6547cbfd/hatch_vcs-0.3.0.tar.gz
 Summary  : Hatch plugin for versioning with your preferred VCS
